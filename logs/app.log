@@ -1,0 +1,12 @@
+
+
+2023-03-17 16:15:10,273 DEBUG c.o.Order [main] Add new order 1 Igor
+2023-03-17 16:15:10,274 DEBUG c.o.Order [main] Add new order 2 Aleksandr
+2023-03-17 16:15:10,274 DEBUG c.o.Order [main] Add new order 3 Kolya
+2023-03-17 16:15:10,274 DEBUG c.o.Order [main] Add new order 4 Sveta
+2023-03-17 16:15:10,274 DEBUG c.o.Order [main] Add new order 5 Tania
+2023-03-17 16:15:10,274 DEBUG c.o.Order [main] Add new order 6 Sofia
+2023-03-17 16:15:10,274 DEBUG c.o.Order [main] Add new order 7 Stas
+2023-03-17 16:15:10,274 DEBUG c.o.CoffeeOrderBoard [main] Add new order number =7 name= Stas
+2023-03-17 16:15:10,278 DEBUG c.o.CoffeeOrderBoard [main] Deliver firs in queue order number= 1 
+2023-03-17 16:15:10,278 DEBUG c.o.CoffeeOrderBoard [main] Deliver in queue order number= 5 
